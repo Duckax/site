@@ -1,5 +1,5 @@
 // 1. Fetch the JSON file
-fetch('website/site/entries.json')
+fetch('https://duckax.github.io/site/entries.json')
     .then(response => {
         // Ensure the server response is valid
         if (!response.ok) {

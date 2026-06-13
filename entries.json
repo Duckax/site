@@ -36,5 +36,13 @@
         "rating": "★★★★⯪",
         "link": "/entries/0003-obaa.html",
         "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+    },
+     {
+        "title": "testing",
+        "releaseDate": "2025",
+        "entryDate": "05/30/26",
+        "rating": "★★★★⯪",
+        "link": "/entries/0003-obaa.html",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
     }
 ]

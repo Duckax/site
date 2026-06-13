@@ -24,12 +24,12 @@ fetch('https://duckax.github.io/site/entries.json')
                                         <img src = "${entry.poster}" style="width:75px;height:113px;">
                                     <th>
                                     <td>
-                                        <p>
-                                            &nbsp;${entry.title} <br />
-                                            &nbsp;${entry.entryDate} <br />
-                                            <span style="color: grey;"> &nbsp;rl: ${entry.releaseDate}</span> <br />
-                                            &nbsp;${entry.rating}
-                                        </p>
+                                    <p>
+                                        &nbsp;${entry.title} <br />
+                                        &nbsp;${entry.entryDate} <br />
+                                        &nbsp;${entry.releaseDate} <br />
+                                        &nbsp;${entry.rating}
+                                    </p>  
                                     </td>
                                 </tbody>
                             </table>

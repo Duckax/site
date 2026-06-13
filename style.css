@@ -66,6 +66,16 @@ a {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
+#shelf2 {
+    grid-column: 4;
+    grid-row: 4;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    background-color: #5C2D2C;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
 #entries {
     grid-column: 3;
     grid-row: 2/2;

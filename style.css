@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'haxrcorp';
+    src: url('haxrcorpttf.ttf');
+}
+
+* {
+    font-family: 'haxrcorp';
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+body {
+    background-color: #1B1B1B;
+    display: flex;
+    justify-content: center;
+}
+
+body>div {
+    width: 85%;
+    display: grid;
+    grid-template-columns: 0.3fr 2.3fr 0.6fr;
+    column-gap: 1em;
+    margin-bottom: 6em
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#header {
+    grid-row: 1;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+#sidebar {
+    grid-column: 1;
+    grid-row: 2;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+#sidebar a::before {
+    content: "> ";
+}
+
+#sidebar>a {
+    text-decoration: underline;
+}
+
+#shelf {
+    grid-column: 2;
+    grid-row: 2;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    background-color: #2C2C2C;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+#entries {
+    grid-column: 3;
+    grid-row: 2/2;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}

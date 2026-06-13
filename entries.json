@@ -1,48 +1,10 @@
 [
-    {
-        "title": "mixtape",
-        "releaseDate": "2026",
-        "entryDate": "05/09/26",
-        "rating": "★★★☆☆",
-        "poster": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2wi.webp"
-    },
-    {
-        "title": "cairn",
-        "releaseDate": "2026",
-        "entryDate": "05/23/26",
-        "rating": "★★★★★",
-        "link": "/entries/0001-cairn.html",
-        "poster": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdqk.webp"
-    },
-    {
-        "title": "monsters club",
-        "releaseDate": "2011",
-        "entryDate": "05/25/26",
-        "rating": "★★★☆☆",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n2dZqIgfVGZ4tqz1XW35yjFgbw8.jpg"
-    },
-    {
-        "title": "hitman last light",
-        "releaseDate": "2026",
-        "entryDate": "05/30/26",
-        "rating": "★★★⯪☆",
-        "link": "/entries/0002-hitman.html",
-        "poster": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.webp"
-    },
-    {
-        "title": "one battle after another",
-        "releaseDate": "2025",
-        "entryDate": "05/30/26",
-        "rating": "★★★★⯪",
-        "link": "/entries/0003-obaa.html",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
-    },
      {
         "title": "testing",
         "releaseDate": "2025",
         "entryDate": "05/30/26",
         "rating": "★★★★⯪",
         "link": "/entries/0003-obaa.html",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+        "poster": "https://makerworld.bblmw.com/makerworld/model/DSM00000000560732/design/2024-07-27_0befed931e5b3.png?x-oss-process=image/resize,w_1000/format,webp"
     }
 ]
